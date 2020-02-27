@@ -1,0 +1,331 @@
+,0
+0,"     Purchase ID             SN  Age  Gender  Item ID  \
+27            27        Eusri44    7    Male       96   
+33            33   Haillyrgue51    7    Male       44   
+37            37      Seuthep89    8    Male       73   
+78            78   Haillyrgue51    7    Male       50   
+81            81       Heudai45    8  Female      174   
+187          187     Tyeurith29    8    Male       11   
+272          272   Anallorgue57    8    Male      133   
+311          311   Anallorgue57    8    Male       71   
+339          339        Ilmol66    8  Female      124   
+446          446   Chanossast57    7  Female      119   
+481          481     Sondossa69    7    Male      179   
+486          486   Eurithphos97    9    Male       53   
+515          515   Haillyrgue51    7    Male       40   
+546          546     Sondadar26    9    Male      159   
+575          575     Sondadar26    9    Male      137   
+610          610  Frichossala54    7    Male      159   
+658          658     Quilassa66    7  Female      178   
+672          672      Ililsan66    9    Male      122   
+686          686     Chadjask77    8    Male      147   
+692          692    Quaecjask96    9    Male       78   
+732          732   Eurithphos97    9    Male       97   
+767          767        Ilmol66    8  Female       92   
+778          778        Sisur91    7    Male      101   
+
+                                        Item Name  Price Age Ranges  
+27                    Blood-Forged Skeletal Spine   3.09        <10  
+33                          Bonecarvin Battle Axe   2.38        <10  
+37                                    Ritual Mace   2.05        <10  
+78                                           Dawn   4.60        <10  
+81                                Primitive Blade   3.47        <10  
+187                                     Brimstone   3.65        <10  
+272                              Faith's Scimitar   4.09        <10  
+311                                        Demise   1.61        <10  
+339                                Venom Claymore   1.29        <10  
+446     Stormbringer, Dark Blade of Ending Misery   4.32        <10  
+481               Wolf, Promise of the Moonwalker   4.48        <10  
+486                             Vengeance Cleaver   2.05        <10  
+515                                 Second Chance   2.52        <10  
+546             Oathbreaker, Spellblade of Trials   3.08        <10  
+575                Aetherius, Boon of the Blessed   3.39        <10  
+610             Oathbreaker, Spellblade of Trials   3.08        <10  
+658  Oathbreaker, Last Hope of the Breaking Storm   4.23        <10  
+672                              Unending Tyranny   2.85        <10  
+686             Hellreaver, Heirloom of Inception   4.93        <10  
+692                    Glimmer, Ender of the Moon   4.40        <10  
+732                   Swan Song, Gouger Of Terror   2.50        <10  
+767                                  Final Critic   4.88        <10  
+778                                  Final Critic   4.19        <10  "
+1,"     Purchase ID             SN  Age  Gender  Item ID  \
+26            26     Lirtossa84   11    Male       71   
+32            32     Aeralria27   10    Male      133   
+38            38       Reulae52   10  Female      116   
+54            54     Zhisrisu83   10    Male       25   
+56            56       Raesty92   12    Male      108   
+76            76   Mindadaran26   13  Female       88   
+139          139       Lisasi93   13    Male      158   
+141          141     Zhisrisu83   10    Male       60   
+155          155     Aillyrin83   10  Female       98   
+163          163        Sidap51   11    Male       65   
+292          292       Lisasi93   13    Male       70   
+299          299     Lirtossa84   11    Male      164   
+394          394  Lassassasda30   12    Male       60   
+408          408       Raesty92   12    Male       53   
+411          411       Lisico81   10    Male      101   
+413          413        Siana77   12    Male       93   
+424          424      Iarilis73   10    Male      149   
+449          449   Ethralista69   13    Male       34   
+487          487    Raillydeu47   14    Male       93   
+493          493  Chanirrasta87   14    Male      139   
+531          531     Lirtirra81   12    Male      143   
+534          534         Iana95   10    Male      146   
+539          539     Eosurdru76   11    Male      117   
+601          601    Ilastilis78   11    Male       93   
+679          679      Iarilis73   10    Male      153   
+751          751    Lisjaskan36   11    Male      180   
+755          755       Raesty92   12    Male       76   
+774          774     Jiskjask80   11    Male      101   
+
+                                     Item Name  Price Age Ranges  
+26                                      Demise   1.61      10-14  
+32                            Faith's Scimitar   4.09      10-14  
+38                     Renewed Skeletal Katana   4.18      10-14  
+54                                   Hero Cane   4.35      10-14  
+56   Extraction, Quickblade Of Trembling Hands   3.53      10-14  
+76            Emberling, Defender of Delusions   3.75      10-14  
+139         Darkheart, Butcher of the Champion   2.45      10-14  
+141                                       Wolf   3.54      10-14  
+155                Deadline, Voice Of Subtlety   2.89      10-14  
+163                  Conqueror Adamantite Mace   4.24      10-14  
+292                                 Hope's End   1.03      10-14  
+299                           Exiled Doomblade   1.63      10-14  
+394                                       Wolf   3.54      10-14  
+408                          Vengeance Cleaver   2.05      10-14  
+411                               Final Critic   4.19      10-14  
+413                   Apocalyptic Battlescythe   1.97      10-14  
+424          Tranquility, Razor of Black Magic   1.75      10-14  
+449                            Retribution Axe   2.22      10-14  
+487                   Apocalyptic Battlescythe   1.97      10-14  
+493                    Mercy, Katana of Dismay   4.94      10-14  
+531                          Frenzied Scimitar   1.56      10-14  
+534                       Warped Iron Scimitar   3.10      10-14  
+539          Heartstriker, Legacy of the Light   1.79      10-14  
+601                   Apocalyptic Battlescythe   1.97      10-14  
+679                            Mercenary Sabre   3.74      10-14  
+751                                Stormcaller   3.36      10-14  
+755                   Haunted Bronzed Bludgeon   3.15      10-14  
+774                               Final Critic   4.19      10-14  "
+2,"     Purchase ID             SN  Age Gender  Item ID  \
+30            30         Idai61   19   Male      140   
+34            34       Sondim73   19   Male      160   
+42            42  Aidaillodeu39   18   Male       72   
+59            59       Yaliru88   19   Male      105   
+61            61     Jiskimya77   17   Male      178   
+..           ...            ...  ...    ...      ...   
+757          757      Eratiel90   18   Male       57   
+764          764   Saedaiphos46   18   Male      113   
+765          765        Irith83   18   Male      130   
+769          769      Ilosian36   15   Male      145   
+771          771   Iskossasda43   16   Male       25   
+
+                                        Item Name  Price Age Ranges  
+30                                        Striker   2.94      15-19  
+34                                     Azurewrath   4.40      15-19  
+42                                  Winter's Bite   3.77      15-19  
+59                   Hailstorm Shadowsteel Scythe   3.03      15-19  
+61   Oathbreaker, Last Hope of the Breaking Storm   4.23      15-19  
+..                                            ...    ...        ...  
+757               Despair, Favor of Due Diligence   4.60      15-19  
+764                             Solitude's Reaver   4.07      15-19  
+765                                         Alpha   2.07      15-19  
+769                          Fiery Glass Crusader   4.58      15-19  
+771                                     Hero Cane   4.35      15-19  
+
+[136 rows x 8 columns]"
+3,"     Purchase ID             SN  Age  Gender  Item ID  \
+0              0        Lisim78   20    Male      108   
+2              2     Ithergue48   24    Male       92   
+3              3  Chamassasya86   24    Male      100   
+4              4      Iskosia90   23    Male      131   
+5              5        Yalae81   22    Male       81   
+..           ...            ...  ...     ...      ...   
+773          773         Hala31   21    Male       19   
+775          775     Aethedru70   21  Female       60   
+776          776         Iral74   21    Male      164   
+777          777     Yathecal72   20    Male       67   
+779          779      Ennrian78   24    Male       50   
+
+                                     Item Name  Price Age Ranges  
+0    Extraction, Quickblade Of Trembling Hands   3.53      20-24  
+2                                 Final Critic   4.88      20-24  
+3                                  Blindscythe   3.27      20-24  
+4                                         Fury   1.44      20-24  
+5                                    Dreamkiss   3.61      20-24  
+..                                         ...    ...        ...  
+773              Pursuit, Cudgel of Necromancy   1.02      20-24  
+775                                       Wolf   3.54      20-24  
+776                           Exiled Doomblade   1.63      20-24  
+777      Celeste, Incarnation of the Corrupted   3.46      20-24  
+779                                       Dawn   4.60      20-24  
+
+[365 rows x 8 columns]"
+4,"     Purchase ID            SN  Age  Gender  Item ID  \
+25            25     Lisirra87   29    Male      178   
+46            46     Yasrisu92   27    Male      102   
+55            55     Phaelap26   25  Female       84   
+65            65  Chamirraya83   25    Male       34   
+70            70     Pheodai94   29    Male      143   
+..           ...           ...  ...     ...      ...   
+724          724  Lisassasta50   25    Male      144   
+734          734        Arin32   25    Male      165   
+759          759   Tyaelorap29   25    Male       72   
+762          762        Asur53   26    Male      110   
+772          772        Asur53   26    Male      136   
+
+                                        Item Name  Price Age Ranges  
+25   Oathbreaker, Last Hope of the Breaking Storm   4.23      25-29  
+46                                        Avenger   3.44      25-29  
+55                                     Arcane Gem   3.79      25-29  
+65                                Retribution Axe   2.22      25-29  
+70                              Frenzied Scimitar   1.56      25-29  
+..                                            ...    ...        ...  
+724                        Blood Infused Guardian   1.94      25-29  
+734                   Bone Crushing Silver Skewer   4.86      25-29  
+759                                 Winter's Bite   3.77      25-29  
+762                                    Suspension   1.44      25-29  
+772                  Ghastly Adamantite Protector   3.58      25-29  
+
+[101 rows x 8 columns]"
+5,"     Purchase ID            SN  Age  Gender  Item ID  \
+19            19     Chamalo71   30    Male       89   
+24            24       Siala43   30    Male      141   
+36            36    Idaisuir85   30    Male       76   
+49            49   Iaralrgue74   33    Male      110   
+53            53   Ilosianya35   32    Male      176   
+..           ...           ...  ...     ...      ...   
+698          698   Yarithrin84   30  Female       58   
+700          700    Chanosia60   31    Male       90   
+717          717  Chanilsast61   30    Male      177   
+730          730     Aidaira26   30    Male      178   
+770          770    Lirtosia63   34    Male       12   
+
+                                        Item Name  Price Age Ranges  
+19              Blazefury, Protector of Delusions   4.64      30-34  
+24                                     Persuasion   3.19      30-34  
+36                       Haunted Bronzed Bludgeon   3.15      30-34  
+49                                     Suspension   1.44      30-34  
+53                         Relentless Iron Skewer   2.84      30-34  
+..                                            ...    ...        ...  
+698             Freak's Bite, Favor of Holy Might   4.14      30-34  
+700                                      Betrayer   2.94      30-34  
+717      Winterthorn, Defender of Shifting Worlds   2.08      30-34  
+730  Oathbreaker, Last Hope of the Breaking Storm   4.23      30-34  
+770                                         Dawne   1.02      30-34  
+
+[73 rows x 8 columns]"
+6,"     Purchase ID              SN  Age                 Gender  Item ID  \
+6              6       Itheria73   36                   Male      169   
+9              9     Chanosian48   35  Other / Non-Disclosed      136   
+14            14     Saesrideu94   35                   Male      165   
+22            22    Siarithria38   38  Other / Non-Disclosed       24   
+31            31     Farusrian86   37                   Male      179   
+107          107      Tyaerith73   36                   Male       99   
+127          127    Lisossanya98   37                   Male      102   
+142          142     Adastirin33   35                 Female      175   
+147          147     Hailaphos89   35                   Male       24   
+182          182         Lamil79   38                   Male      154   
+195          195       Minduri31   39                   Male      113   
+196          196     Maradaran90   35                 Female        9   
+202          202       Phistym51   37                   Male       82   
+208          208     Qilanrion65   37                   Male      105   
+217          217       Cosadar58   38                   Male       25   
+252          252        Tyaelo67   39                   Male       92   
+264          264     Saesrideu94   35                   Male      119   
+270          270    Assassasta79   38                   Male       85   
+294          294     Ilirrasda54   37                   Male      171   
+372          372    Saistyphos30   35                   Male       64   
+483          483    Saistyphos30   35                   Male      108   
+484          484     Chanosian48   35  Other / Non-Disclosed       39   
+498          498         Firon67   35                   Male      108   
+512          512      Sastydeu50   35                   Male      169   
+516          516        Aidain51   39                 Female       35   
+517          517  Aerithnuphos61   39                   Male      128   
+521          521       Phistym51   37                   Male       50   
+563          563          Isri34   38                   Male      142   
+648          648      Eustyria89   39                   Male      150   
+659          659    Lisassasda39   36                   Male      140   
+660          660          Isri34   38                   Male      103   
+687          687       Ealiril69   35                   Male       78   
+688          688    Saistyphos30   35                   Male       29   
+695          695         Lamil79   38                   Male      111   
+718          718     Ilirrasda54   37                   Male       20   
+738          738         Eusur90   36                   Male      121   
+739          739   Mindirranya33   35                   Male       61   
+745          745      Chanista95   39                   Male       37   
+747          747    Siarithria38   38  Other / Non-Disclosed      146   
+753          753  Frichirranya75   36                   Male      178   
+768          768    Assassasta79   38                   Male       92   
+
+                                        Item Name  Price Age Ranges  
+6          Interrogator, Blood Blade of the Queen   2.18      35-39  
+9                    Ghastly Adamantite Protector   3.58      35-39  
+14                    Bone Crushing Silver Skewer   4.86      35-39  
+22                                  Warped Fetish   3.81      35-39  
+31                Wolf, Promise of the Moonwalker   4.48      35-39  
+107          Expiration, Warscythe Of Lost Worlds   1.71      35-39  
+127                                       Avenger   3.44      35-39  
+142                    Woeful Adamantite Claymore   4.48      35-39  
+147                                 Warped Fetish   3.81      35-39  
+182                                  Feral Katana   4.40      35-39  
+195                             Solitude's Reaver   4.07      35-39  
+196             Thorn, Conqueror of the Corrupted   2.73      35-39  
+202                                       Nirvana   4.90      35-39  
+208                  Hailstorm Shadowsteel Scythe   3.03      35-39  
+217                                     Hero Cane   4.35      35-39  
+252                                  Final Critic   4.88      35-39  
+264     Stormbringer, Dark Blade of Ending Misery   4.32      35-39  
+270                                Malificent Bag   1.75      35-39  
+294                                       Scalpel   1.79      35-39  
+372                                 Fusion Pummel   4.82      35-39  
+483     Extraction, Quickblade Of Trembling Hands   3.53      35-39  
+484          Betrayal, Whisper of Grieving Widows   3.94      35-39  
+498     Extraction, Quickblade Of Trembling Hands   3.53      35-39  
+512        Interrogator, Blood Blade of the Queen   2.18      35-39  
+516                      Heartless Bone Dualblade   3.45      35-39  
+517                 Blazeguard, Reach of Eternity   4.91      35-39  
+521                                          Dawn   4.60      35-39  
+563                               Righteous Might   2.62      35-39  
+648                                     Deathraze   2.85      35-39  
+659                                       Striker   2.94      35-39  
+660                                Singed Scalpel   4.35      35-39  
+687                    Glimmer, Ender of the Moon   4.40      35-39  
+688                       Chaos, Ender of the End   1.98      35-39  
+695                                  Misery's End   4.89      35-39  
+718                                    Netherbane   3.27      35-39  
+738                                      Massacre   1.60      35-39  
+739                                      Ragnarok   3.87      35-39  
+745           Shadow Strike, Glory of Ending Hope   3.16      35-39  
+747                          Warped Iron Scimitar   3.10      35-39  
+753  Oathbreaker, Last Hope of the Breaking Storm   4.23      35-39  
+768                                  Final Critic   4.88      35-39  "
+7,"     Purchase ID            SN  Age  Gender  Item ID  \
+1              1   Lisovynya38   40    Male      143   
+23            23      Eyrian71   40    Male      151   
+156          156      Eyrian71   40    Male      117   
+220          220    Jiskjask85   40    Male       46   
+248          248    Isursuir31   44    Male      137   
+341          341   Hiasurria41   41    Male       71   
+477          477    Mindossa76   41    Male      173   
+480          480     Salilis27   40    Male       59   
+557          557    Frichaya88   42    Male        8   
+667          667     Inasuir29   40  Female       66   
+674          674       Aeral68   43    Male       77   
+728          728  Chanosiaya39   44    Male       93   
+761          761       Assim27   45    Male       17   
+
+                             Item Name  Price Age Ranges  
+1                    Frenzied Scimitar   1.56        40+  
+23                           Severance   3.40        40+  
+156  Heartstriker, Legacy of the Light   1.79        40+  
+220            Hopeless Ebon Dualblade   1.33        40+  
+248     Aetherius, Boon of the Blessed   3.39        40+  
+341                             Demise   1.61        40+  
+477                Stormfury Longsword   4.93        40+  
+480      Lightning, Etcher of the King   4.23        40+  
+557           Purgatory, Gem of Regret   3.93        40+  
+667                 Victor Iron Spikes   4.40        40+  
+674         Piety, Guardian of Riddles   4.00        40+  
+728           Apocalyptic Battlescythe   1.97        40+  
+761       Lazarus, Terror of the Earth   1.70        40+  "
